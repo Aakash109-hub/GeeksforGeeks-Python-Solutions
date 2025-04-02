@@ -1,7 +1,5 @@
-#Function to find matching decimal representation of a string as on the keypad.
-def printNumber(s,n):
-   
-    #CODE HERE
+def printNumber(s, n):
+    # Dictionary mapping each character to its corresponding keypad digit
     keypad_mapping = {
         'a': '2', 'b': '2', 'c': '2',
         'd': '3', 'e': '3', 'f': '3',
@@ -13,6 +11,6 @@ def printNumber(s,n):
         'w': '9', 'x': '9', 'y': '9', 'z': '9'
     }
     
-    # Convert the input string into its decimal representation
+    # Convert each character in the string to its keypad digit and join them
     result = ''.join(keypad_mapping[char] for char in s)
     return result
