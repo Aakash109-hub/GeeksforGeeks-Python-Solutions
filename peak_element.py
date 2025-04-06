@@ -28,7 +28,7 @@ class Solution:
 
 
 #{ 
- # Driver Code Starts
+ # Driver Code 
 if __name__ == "__main__":
     t = int(input())  # Read number of test cases
     for _ in range(t):
