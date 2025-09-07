@@ -1,4 +1,4 @@
-# Array Element Searc
+# Array Element Search
 
 ## Problem Statement
 
