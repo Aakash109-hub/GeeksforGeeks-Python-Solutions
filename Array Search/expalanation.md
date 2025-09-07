@@ -60,4 +60,4 @@ For `arr = [10, 8, 30]` and `x = 6`:
 ## Time and Space Complexity
 
 - **Time Complexity**: O(n) - In the worst case, the function may need to check every element in the array.
-- **Space Complexity**: O(1) - The function uses a constant amount of additional space
+- **Space Complexity**: O(1) - The function uses a constant amount of additional space.
