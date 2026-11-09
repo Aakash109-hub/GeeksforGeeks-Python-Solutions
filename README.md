@@ -58,6 +58,7 @@ I will continuously update this repository as I solve new problems.
 ## 🛠️ Languages & Tools
 
 - Python
+- SQL
 - Git & GitHub
 
 ## 🌱 Learning Approach
